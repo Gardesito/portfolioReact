@@ -1,0 +1,27 @@
+.footer {
+  margin-top: 30px;
+  padding: 10px;
+}
+
+.containerF {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  gap: 40px;
+}
+
+.txtF {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+
+  color: #999999;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.infoFooter {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}

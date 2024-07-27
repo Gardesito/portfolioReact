@@ -1,0 +1,135 @@
+.containerD {
+  margin-top: 10px;
+  height: 100%;
+  width: 100%;
+  border-radius: 16px;
+  opacity: 1;
+  background-color: #141414;
+
+  place-content: flex-start center;
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-flow: column;
+  gap: 14px;
+  height: 226px;
+  overflow: visible;
+  padding: 14px;
+  position: relative;
+  text-decoration: none;
+  width: 100%;
+}
+
+.containerD2 {
+  border-radius: 10px;
+  opacity: 1;
+
+  flex: 1 0 0px;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.containerd3 {
+  position: absolute;
+  border-radius: inherit;
+  inset: 0px;
+  overflow: hidden;
+}
+
+.imgD {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  object-position: center center;
+  object-fit: cover;
+  image-rendering: auto;
+
+  transition: transform 400ms ease-out;
+}
+
+.imgD:hover {
+  transform: scale(1.15);
+}
+
+.containerd3 img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+
+.containerTxt {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  /*   gap: 175px;
+   */
+}
+
+.containerTxt2 {
+  flex: 0 0 auto;
+  height: auto;
+  position: relative;
+  white-space: pre-wrap;
+  width: 100%;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+.containerTxt2 p {
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #cccccc;
+  font-size: 16px;
+}
+
+.containerTxt3 {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  color: #999999;
+  font-size: 16px;
+}
+
+.iconD {
+  --border-bottom-width: 1px;
+  --border-color: white;
+  --border-left-width: 1px;
+  --border-right-width: 1px;
+  --border-style: solid;
+  --border-top-width: 1px;
+  background-color: var(
+    --token-947dc4b9-08a7-478e-9177-6098d2652f6c,
+    rgb(31, 31, 31)
+  );
+  border-radius: 50px;
+  opacity: 1;
+
+  height: var(--framer-aspect-ratio-supported, 44px);
+  width: 44px;
+  align-items: center;
+  display: flex;
+  flex: none;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 10px;
+  height: 48px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 12px;
+  position: relative;
+  width: 48px;
+}
+
+.iconD1 {
+  transform-origin: 50% 50% 0px;
+  transform: translate(-50%, -50%);
+  flex: none;
+  height: var(--framer-aspect-ratio-supported, 24px);
+  left: 50%;
+  overflow: hidden;
+  position: absolute;
+  top: 50%;
+  width: 24px;
+  z-index: 1;
+}
