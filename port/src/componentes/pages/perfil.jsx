@@ -28,37 +28,66 @@ const Perfil = () => {
         <div className="info">
           <div className="infoDate">
             <div className="fondoInfo">
-              <div className="imgInfo"></div>
+              <div className="imgInfo">
+                <img
+                  src="https://framerusercontent.com/images/LnINChddZ7WxbcCRF4yX3pY30.svg"
+                  alt=""
+                />{" "}
+              </div>
               <div className="textInfo">
                 <p>Argentina</p>
               </div>
             </div>
 
             <div className="fondoInfo">
-              <div className="imgInfo"></div>
+              <div className="imgInfo">
+                {" "}
+                <img
+                  src="https://framerusercontent.com/images/Je0bncWlBPyemX1nWwnHkgx7Pd4.svg"
+                  alt=""
+                />
+              </div>
               <div className="textInfo">
                 <p>Spanish</p>
               </div>
             </div>
 
             <div className="fondoInfo">
-              <div className="imgInfo"></div>
+              <div className="imgInfo">
+                {" "}
+                <img
+                  src="https://framerusercontent.com/images/oT8R3yT3QObEqWbS7g0bAjsEjk.svg"
+                  alt=""
+                />
+              </div>
               <div className="textInfo">
                 <p>Diseñador</p>
               </div>
             </div>
 
             <div className="fondoInfo">
-              <div className="imgInfo"></div>
+              <div className="imgInfo">
+                {" "}
+                <img
+                  src="https://framerusercontent.com/images/zr11FpnutRZXbPLLyBlAwdp7vQ.svg"
+                  alt=""
+                />
+              </div>
               <div className="textInfo">
                 <p>Good Boy</p>
               </div>
             </div>
 
             <div className="fondoInfo">
-              <div className="imgInfo"></div>
+              <div className="imgInfo">
+                {" "}
+                <img
+                  src="https://framerusercontent.com/images/oT8R3yT3QObEqWbS7g0bAjsEjk.svg"
+                  alt=""
+                />
+              </div>
               <div className="textInfo">
-                <p>Spanish</p>
+                <p>Developer</p>
               </div>
             </div>
           </div>
@@ -70,7 +99,13 @@ const Perfil = () => {
               href=" https://www.instagram.com/elias_fx/?hl=es-la"
               target="_blank"
             >
-              <div></div>
+              <div className="imgInfo">
+
+                <img
+                  src="https://framerusercontent.com/images/Noy5SjiQS1OWy3FZmUE4TGu45ZA.svg"
+                  alt=""
+                />
+              </div>
               <div className="redestext">
                 <p>Instagram</p>
               </div>
@@ -79,7 +114,12 @@ const Perfil = () => {
 
           <div className="container-redes">
             <a href="">
-              <div></div>
+              <div className="imgInfo">
+              <img
+                  src="https://framerusercontent.com/images/Noy5SjiQS1OWy3FZmUE4TGu45ZA.svg"
+                  alt=""
+                />
+              </div>
               <div className="redestext">
                 <p>Whatasapp me</p>
               </div>

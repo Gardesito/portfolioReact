@@ -55,7 +55,13 @@ const Works = () => {
 
           <div>
             <div className="clientesTxt">
-              <div></div>
+              <div className=" imgInfo">
+                {" "}
+                <img
+                  src="https://framerusercontent.com/images/lE0OpV0YSJdyz68uieRVwXtcr3k.svg"
+                  alt=""
+                />
+              </div>
               <div>
                 <p className="textC1">My clientess</p>
               </div>

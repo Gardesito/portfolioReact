@@ -7,7 +7,13 @@ const Clientes = () => {
         <div class="containerClientes">
           <div>
             <div class="clientesTxt">
-              <div></div>
+              <div className="imgInfo">
+                {" "}
+                <img
+                  src="https://framerusercontent.com/images/w40mStU6XBfbebFpC1gjS6NIA.svg"
+                  alt=""
+                />
+              </div>
               <div>
                 <p class="textC1">My clientess</p>
               </div>

@@ -33,6 +33,7 @@
   overflow: visible;
   position: relative;
   width: 100%;
+  gap: 20px;
 }
 
 .textC1 {
@@ -94,5 +95,3 @@
   height: min-content;
   margin: 0 5px;
 }
-
-

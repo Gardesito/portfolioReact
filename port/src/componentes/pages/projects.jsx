@@ -9,7 +9,13 @@ const Projects = () => {
         <div className="containerClientes">
           <div className="cc1">
             <div className="clientesTxt">
-              <div></div>
+              <div className="imgInfo">
+                {" "}
+                <img
+                  src="https://framerusercontent.com/images/pWnyWbSLaOXRIu2gmjo18aL9N0.svg"
+                  alt=""
+                />
+              </div>
               <div>
                 <p className="textC1">Projects</p>
               </div>

@@ -66,11 +66,16 @@
   border-radius: 10px;
 }
 
+.imgInfo {
+  width: 6px;
+}
+
 /* info perfil */
 
 .fondoInfo {
   padding: 6px 14px 6px 10px;
   display: flex;
+  gap: 18px;
   flex-wrap: nowrap;
   align-items: center;
   flex-direction: row;
@@ -139,9 +144,16 @@
   height: auto;
 }
 
+.container-redes a {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+}
+
 .redestext p {
   font-family: "Manrope", sans-serif;
-
+  font-size: 14px;
   color: #999999;
 }
 
@@ -152,7 +164,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  
 }
 .animation {
   height: 50px;
