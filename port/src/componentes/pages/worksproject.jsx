@@ -1,32 +1,29 @@
 import React from "react";
 import "./worksproject.css";
-const WorksP = () => {
+const WorksP = ({ work }) => {
+  console.log(work);
   return (
     <>
-      <div class="design">
+      <div className="design">
         <div>
-          <a href="" class="containerD">
-            <div class="containerD2">
-              <div class="containerd3">
-                <img
-                  src="https://res.cloudinary.com/doo4zye2n/image/upload/v1717441194/cld-sample-5.jpg"
-                  alt=""
-                  class="imgD"
-                />
+          <a href="" className="containerD">
+            <div className="containerD2">
+              <div className="containerd3">
+                <img src={work.img} alt="" className="imgD" />
               </div>
             </div>
 
-            <div class="containerTxt">
-              <div class="containerTxt1">
-                <div class="containerTxt2">
-                  <p>Fuua</p>
+            <div className="containerTxt">
+              <div className="containerTxt1">
+                <div className="containerTxt2">
+                  <p>{work.name}</p>
                 </div>
-                <div class="containerTxt3">
-                  <p>Ecomerce</p>
+                <div className="containerTxt3">
+                  <p>{work.sub}</p>
                 </div>
               </div>
-              <div class="iconD">
-                <div class="iconD1">
+              <div className="iconD">
+                <div className="iconD1">
                   <div>
                     <img
                       src="https://framerusercontent.com/images/Lb6hmzD1rqwb6BVGnqeLP0ps88.svg"

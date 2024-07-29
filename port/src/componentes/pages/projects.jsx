@@ -6,62 +6,62 @@ const Projects = () => {
   return (
     <>
       <div className="projects">
-        <div class="containerClientes">
+        <div className="containerClientes">
           <div className="cc1">
-            <div class="clientesTxt">
+            <div className="clientesTxt">
               <div></div>
               <div>
-                <p class="textC1">Projects</p>
+                <p className="textC1">Projects</p>
               </div>
             </div>
-            <div class="clientesTxt">
-              <p class="textC2">Work Gallery</p>
+            <div className="clientesTxt">
+              <p className="textC2">Work Gallery</p>
             </div>
           </div>
           <div>
             <div>
-              <div class="logos">
-                <div class="logos-slide">
+              <div className="logos">
+                <div className="logos-slide">
                   <img
-                    class="imgP"
+                    className="imgP"
                     src="https://framerusercontent.com/images/h0bHFfufoXohXyRRUZq1vePOgM.png"
                   />
                   <img
-                    class="imgP"
+                    className="imgP"
                     src="https://framerusercontent.com/images/h0bHFfufoXohXyRRUZq1vePOgM.png"
                   />
                   <img
-                    class="imgP"
+                    className="imgP"
                     src="https://framerusercontent.com/images/h0bHFfufoXohXyRRUZq1vePOgM.png"
                   />
                   <img
-                    class="imgP"
+                    className="imgP"
                     src="https://framerusercontent.com/images/h0bHFfufoXohXyRRUZq1vePOgM.png"
                   />
                   <img
-                    class="imgP"
+                    className="imgP"
                     src="https://framerusercontent.com/images/h0bHFfufoXohXyRRUZq1vePOgM.png"
                   />
                   <img
-                    class="imgP"
+                    className="imgP"
                     src="https://framerusercontent.com/images/h0bHFfufoXohXyRRUZq1vePOgM.png"
                   />
                   <img
-                    class="imgP"
+                    className="imgP"
                     src="https://framerusercontent.com/images/h0bHFfufoXohXyRRUZq1vePOgM.png"
                   />
                   <img
-                    class="imgP"
+                    className="imgP"
                     src="https://framerusercontent.com/images/h0bHFfufoXohXyRRUZq1vePOgM.png"
                   />
                 </div>
-                <div class="btnPro">
-                  <div class="btnpro2">
+                <div className="btnPro">
+                  <div className="btnpro2">
                     <Link to="work">
                       <a href="">
-                        <div class="containerBtn">
+                        <div className="containerBtn">
                           <div>
-                            <p class="txtPro">View Workss</p>
+                            <p className="txtPro">View Workss</p>
                           </div>
                         </div>
                       </a>
