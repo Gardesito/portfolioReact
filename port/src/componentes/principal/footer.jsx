@@ -28,7 +28,10 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div></div>
+        <div className="infoFooter">
+          <p className="txtF">Created by Elias Solis</p>
+        </div>
+
         <div className="infoFooter">
           <div>
             <p className="txtF">@2024 All Rights Reservced</p>

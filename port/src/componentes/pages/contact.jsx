@@ -3,12 +3,12 @@ import "./contact.css";
 const Contact = () => {
   return (
     <>
-      <div class="contact">
-        <div class="boxC">
-          <div class="boxC1">
+      <div className="contact">
+        <div className="boxC">
+          <div className="boxC1">
             <div>
               <div>
-                <div class="boxCimg">
+                <div className="boxCimg">
                   <img
                     src="https://framerusercontent.com/images/RNhprVgPRIRYVpd0baDySQLMk.svg"
                     alt=""
@@ -18,17 +18,17 @@ const Contact = () => {
             </div>
           </div>
           <div>
-            <div class="boxCtxt1">
+            <div className="boxCtxt1">
               <h2>Let’s Work Together</h2>
             </div>
           </div>
-          <div class="boxCtxt2">
+          <div className="boxCtxt2">
             <p>Let's Make Magic Happen Together!</p>
           </div>
         </div>
 
-        <div class="containerC2">
-          <div class="llamada">
+        <div className="containerC2">
+          <div className="llamada">
             <a href="">
               <div>
                 <div>
@@ -38,14 +38,14 @@ const Contact = () => {
                   />
                 </div>
               </div>
-              <div class="textSp2">
+              <div className="textSp2">
                 <p>Email Me</p>
               </div>
             </a>
           </div>
         </div>
-        <div class="containerC2">
-          <div class="llamada">
+        <div className="containerC2">
+          <div className="llamada">
             <a href="">
               <div>
                 <div>
@@ -55,7 +55,7 @@ const Contact = () => {
                   />
                 </div>
               </div>
-              <div class="textSp2">
+              <div className="textSp2">
                 <p>Schedule a Call</p>
               </div>
             </a>

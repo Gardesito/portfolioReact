@@ -23,7 +23,7 @@
 }
 
 .txtPerfil {
-  color: white;
+  color: rgb(255, 255, 255);
   font-family: "Manrope", sans-serif;
   font-optical-sizing: auto;
   font-size: 15px;
@@ -31,6 +31,10 @@
   font-style: normal;
   display: grid;
   gap: 10px;
+}
+.txtPerfil p {
+  color: #999999;
+  font-size: 13px;
 }
 
 .green {
@@ -58,6 +62,19 @@
 
 .textDisponible {
   border: white;
+  align-items: center;
+  flex-direction: row;
+  gap: 6px;
+  height: min-content;
+  justify-content: flex-start;
+  overflow: hidden;
+  padding: 6px 20px 6px 8px;
+  position: relative;
+  background-color: #141414;
+  border-radius: 50px;
+  border: 1px solid rgb(40, 40, 40);
+  flex-wrap: nowrap;
+  position: relative;
 }
 
 .imgPerfil {
@@ -82,7 +99,7 @@
   align-content: center;
   align-items: center;
   display: flex;
-  
+
   flex-direction: row;
   flex-wrap: nowrap;
   gap: 20px;
@@ -166,7 +183,7 @@
   flex-wrap: nowrap;
   gap: 12px;
   height: min-content;
-  justify-content: flex-start;
+  justify-content: center;
   overflow: visible;
   padding: 0;
   position: relative;

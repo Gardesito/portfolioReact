@@ -3,10 +3,10 @@ import "./clientes.css";
 const Clientes = () => {
   return (
     <>
-      <div class="clientes">
-        <div class="containerClientes">
+      <div className="clientes">
+        <div className="containerClientes">
           <div>
-            <div class="clientesTxt">
+            <div className="clientesTxt">
               <div className="imgInfo">
                 {" "}
                 <img
@@ -15,17 +15,17 @@ const Clientes = () => {
                 />
               </div>
               <div>
-                <p class="textC1">My clientess</p>
+                <p className="textC1">My clientess</p>
               </div>
             </div>
-            <div class="clientesTxt">
-              <p class="textC2">Satisfied Partners</p>
+            <div className="clientesTxt">
+              <p className="textC2">Satisfied Partners</p>
             </div>
           </div>
           <div>
             <div>
-              <div class="logos">
-                <div class="logos-slide">
+              <div className="logos">
+                <div className="logos-slide">
                   <img src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg" />
                   <img src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg" />
                   <img src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg" />

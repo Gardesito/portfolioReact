@@ -19,7 +19,7 @@ const Portfolio = () => {
 
         <Projects />
         <Contact />
- 
+
         <Footer />
       </div>
     </>
