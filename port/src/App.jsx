@@ -10,8 +10,9 @@ import { Footer } from "./componentes/principal/footer.jsx";
 import { Portfolio } from "./componentes/portofolio/portfolio";
 import { Design } from "./componentes/pages/design.jsx";
 import { Food } from "./componentes/pages/designs/fuua/fuua.jsx";
-
+import { Follow } from "./componentes/pages/follow.jsx";
 import { Servicios } from "./componentes/pages/servicios.jsx";
+import { Contact } from "./componentes/pages/contact.jsx";
 import { Proyectos } from "./componentes/pages/designs/proyectos/index.jsx";
 
 import "./App.css";
@@ -30,6 +31,8 @@ function App() {
         <Route path="/design" element={<Design />} />
         <Route path="/food" element={<Food />} />
         <Route path="/services" element={<Servicios />} />
+        <Route path="/follow" element={<Follow />} />
+        <Route path="/contact" element={<Contact />} />
 
         <Route path="/proyectos/:id" element={<Proyectos />} />
 

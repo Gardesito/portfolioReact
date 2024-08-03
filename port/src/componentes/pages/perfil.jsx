@@ -5,11 +5,18 @@ const Perfil = () => {
     <>
       <div className="perfil">
         <div className="containerPerfil">
-          <img
-            src="https://res.cloudinary.com/doo4zye2n/image/upload/v1722102651/SOY_UN_PNG_asahpu.png"
-            alt=""
-            className="imgPerfil"
-          />
+          <div className="boxImg1">
+            <div className="boxImg2">
+              <div className="boxImg3">
+                <img
+                  src="https://res.cloudinary.com/doo4zye2n/image/upload/v1722102651/SOY_UN_PNG_asahpu.png"
+                  alt=""
+                  className="imgPerfil"
+                />
+              </div>
+            </div>
+          </div>
+
           <div className="txtPerfil">
             <div className="textDisponible">
               <p>
@@ -100,7 +107,6 @@ const Perfil = () => {
               target="_blank"
             >
               <div className="imgInfo">
-
                 <img
                   src="https://framerusercontent.com/images/Noy5SjiQS1OWy3FZmUE4TGu45ZA.svg"
                   alt=""
@@ -115,7 +121,7 @@ const Perfil = () => {
           <div className="container-redes">
             <a href="">
               <div className="imgInfo">
-              <img
+                <img
                   src="https://framerusercontent.com/images/Noy5SjiQS1OWy3FZmUE4TGu45ZA.svg"
                   alt=""
                 />

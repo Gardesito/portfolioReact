@@ -5,6 +5,8 @@ import { Perfil } from "../pages/perfil";
 import { Numeros } from "../pages/numeros";
 import { Clientes } from "../pages/clientes";
 import { Projects } from "../pages/projects";
+import { Follow } from "../pages/follow";
+import { Contact } from "../pages/contact";
 const Portfolio = () => {
   return (
     <>
@@ -13,8 +15,11 @@ const Portfolio = () => {
         <Perfil />
         <Numeros />
         <Clientes />
-        <Projects />
+        <Follow />
 
+        <Projects />
+        <Contact />
+ 
         <Footer />
       </div>
     </>
