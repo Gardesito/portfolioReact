@@ -1,7 +1,7 @@
 import React from "react";
 import "./servicios.css";
 import { Header } from "../principal/header";
-
+import { Footer } from "../principal/footer";
 const Servicios = () => {
   return (
     <>
@@ -56,6 +56,8 @@ const Servicios = () => {
           <div className="carrusel"></div>
         </div>
       </div>
+
+      <Footer />
     </>
   );
 };
