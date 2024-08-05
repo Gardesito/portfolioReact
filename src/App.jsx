@@ -13,6 +13,9 @@ import { Food } from "./componentes/pages/designs/fuua/fuua.jsx";
 import { Follow } from "./componentes/pages/follow.jsx";
 import { Servicios } from "./componentes/pages/servicios.jsx";
 import { Contact } from "./componentes/pages/contact.jsx";
+
+import { Error } from "./componentes/pages/error.jsx";
+
 import { Proyectos } from "./componentes/pages/designs/proyectos/index.jsx";
 
 import "./App.css";
@@ -33,6 +36,7 @@ function App() {
         <Route path="/services" element={<Servicios />} />
         <Route path="/follow" element={<Follow />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/error" element={<Error />} />
 
         <Route path="/proyectos/:id" element={<Proyectos />} />
 

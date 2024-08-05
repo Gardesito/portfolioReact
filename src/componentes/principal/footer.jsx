@@ -1,5 +1,7 @@
 import React from "react";
 import "./footer.css";
+import { Link } from "react-router-dom";
+
 const Footer = () => {
   return (
     <>
@@ -22,9 +24,11 @@ const Footer = () => {
               </a>
             </div>
             <div>
-              <a href="">
-                <p className="txtF">404</p>
-              </a>
+              <Link to="/error">
+                <a href="">
+                  <p className="txtF">404</p>
+                </a>
+              </Link>
             </div>
           </div>
         </div>
