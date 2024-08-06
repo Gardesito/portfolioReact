@@ -9,6 +9,13 @@ import { Link } from "react-router-dom";
 
 import "./design.css";
 
+
+
+
+
+
+
+
 const Design = () => {
   return (
     <>

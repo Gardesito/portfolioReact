@@ -7,10 +7,11 @@ import { Clientes } from "./clientes";
 
 import { Numeros } from "./numeros";
 import { Link } from "react-router-dom";
+import { Complementos } from "./complementos";
 
 const workP = [
   {
-    name: "fuua",
+    name: "Panaderia",
     img: "https://res.cloudinary.com/doo4zye2n/image/upload/v1717441194/cld-sample-5.jpg",
     url: "https://www.google.com",
     sub: "Ecommerce",
@@ -75,6 +76,9 @@ const Works = () => {
             <WorksP work={work} />
           ))}
         </div>
+
+        <Complementos />
+
         <Clientes />
 
         <Numeros />

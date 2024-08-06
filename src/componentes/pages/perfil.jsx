@@ -28,7 +28,7 @@ const Perfil = () => {
             <h1>Elias Solis</h1>
 
             <p>
-              <span className="developer">i am Developer</span>
+              <span className="developer">I am Developer</span>
             </p>
           </div>
         </div>

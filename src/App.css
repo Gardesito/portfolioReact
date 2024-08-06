@@ -8,14 +8,33 @@ body {
   background-color: black;
 }
 
-@media (max-width: 800px) {
+@media (min-width: 470px) {
+  .portfolio {
+    flex-wrap: nowrap;
+    height: auto;
+    justify-content: center;
+    max-height: unset;
+    max-width: 440px;
+    padding: 16px;
+   flex-direction: none;
+    align-items: center;
+
+    /*  flex-direction: column;
+    di splay: flex; */
+  }
+}
+
+@media (max-width: 470px) {
   .portfolio {
     flex-wrap: wrap;
     height: auto;
     justify-content: center;
     max-height: unset;
-    max-width: 440;
+    min-width: 370px;
+
     padding: 16px;
+    /*  flex-direction: column;
+    display: flex; */
   }
 }
 

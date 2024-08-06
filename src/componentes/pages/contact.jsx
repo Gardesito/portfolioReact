@@ -29,7 +29,7 @@ const Contact = () => {
 
         <div className="containerC2">
           <div className="llamada">
-            <a href="mail:correo@correo.com">
+            <a href="mailto:gardelero@gmail.com">
               <div>
                 <div>
                   <img

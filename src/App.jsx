@@ -19,6 +19,7 @@ import { Error } from "./componentes/pages/error.jsx";
 import { Proyectos } from "./componentes/pages/designs/proyectos/index.jsx";
 
 import "./App.css";
+import { Complementos } from "./componentes/pages/complementos.jsx";
 
 function App() {
   return (
@@ -37,6 +38,7 @@ function App() {
         <Route path="/follow" element={<Follow />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/error" element={<Error />} />
+        <Route path="/complementos" element={<Complementos />} />
 
         <Route path="/proyectos/:id" element={<Proyectos />} />
 

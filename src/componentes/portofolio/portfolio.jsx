@@ -7,20 +7,27 @@ import { Clientes } from "../pages/clientes";
 import { Projects } from "../pages/projects";
 import { Follow } from "../pages/follow";
 import { Contact } from "../pages/contact";
+
+import "./portfolio.css";
 const Portfolio = () => {
   return (
     <>
       <div className="portfolio">
-        <Header />
-        <Perfil />
-        <Numeros />
-        <Clientes />
-        <Follow />
+        <div className="containerport">
+<div className="boxPort">
+          <Header />
+          <Perfil />
+          <Numeros />
+          <Clientes />
+          <Follow />
 
-        <Projects />
-        <Contact />
+          <Projects />
+          <Contact />
 
-        <Footer />
+          <Footer />
+        </div>
+        </div>
+
       </div>
     </>
   );
