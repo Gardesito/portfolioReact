@@ -1,0 +1,97 @@
+.clientes {
+  order: 2;
+  margin-top: 10px;
+  background-color: #141414;
+  height: 100%;
+  width: 100%;
+  border-radius: 20px;
+  opacity: 1;
+
+  align-items: flex-start;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  gap: 0;
+  justify-content: flex-start;
+  overflow: visible;
+  padding: 0;
+  position: relative;
+}
+
+.containerClientes {
+  padding: 15px;
+}
+
+.clientesTxt {
+  align-items: center;
+  display: flex;
+  flex: none;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 4px;
+  height: min-content;
+  justify-content: center;
+  overflow: visible;
+  position: relative;
+  width: 100%;
+  gap: 20px;
+}
+
+.textC1 {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  color: #999999;
+  font-size: 14px;
+}
+
+.textC2 {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+/* slide */
+
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.logos {
+  mask-image: linear-gradient(to right, transparent, #000 10% 90%, transparent);
+
+  overflow: hidden;
+  padding: 20px 0;
+  white-space: nowrap;
+  /*   position: relative;
+   */
+}
+
+/* .logos:before,
+  .logos:after {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    content: "";
+    z-index: 2;
+  }
+   */
+.logos-slide {
+  display: inline-block;
+  animation: 20s slide infinite linear;
+}
+
+.logos-slide img {
+  background-color: #1f1f1f71;
+  border: 1px rgb(33, 33, 33) solid;
+  border-radius: 10px;
+  height: min-content;
+  margin: 0 5px;
+}

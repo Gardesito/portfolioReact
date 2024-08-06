@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 
 import "./header.css";
@@ -9,7 +8,7 @@ const Header = () => {
       <div className="header">
         <div className="containerHeader">
           <Link to="/">
-            <a href="">
+            <a>
               <div>
                 <img
                   src="https://framerusercontent.com/images/UxtYXPTmrBuqEzchBHNbgjpLc.svg"
@@ -26,7 +25,7 @@ const Header = () => {
         </div>
         <div className="containerHeader">
           <Link to="/work">
-            <a href="">
+            <a>
               <div>
                 <img
                   src="https://framerusercontent.com/images/CTXgMN1vdi3OdrtEdeyNoVBHvPo.svg"
@@ -44,7 +43,7 @@ const Header = () => {
 
         <div className="containerHeader">
           <Link to="/services">
-            <a href="">
+            <a>
               <div>
                 <img
                   src="https://framerusercontent.com/images/No8gGFl2W11B70rCtgMzDUosRs.svg"
