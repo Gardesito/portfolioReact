@@ -88,11 +88,12 @@ const Numeros = () => {
             </div>
             <div className="projectsNum">
               <div></div>
-              {/* <a href="" download="CV">
+              <a href="./../Elias Solis CV.pdf" download="CV">
                 <div className="txtN cv">
                   <p>Dowland</p>
                 </div>
-              </a> */}
+              </a>{" "}
+              *
             </div>
           </div>
         </div>

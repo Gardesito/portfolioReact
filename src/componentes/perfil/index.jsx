@@ -127,7 +127,7 @@ const Perfil = () => {
                 />
               </div>
               <div className="redestext">
-                <p>Whatasapp me</p>
+                <p>Whatasapp</p>
               </div>
             </a>
           </div>

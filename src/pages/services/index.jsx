@@ -2,6 +2,8 @@ import "./servicios.css";
 import { Header } from "../../componentes/principal/header";
 import { Footer } from "../../componentes/principal/footer";
 import { Projects } from "../../componentes/projects";
+import { Link } from "react-router-dom";
+
 const Servicios = () => {
   return (
     <>
@@ -37,7 +39,7 @@ const Servicios = () => {
             </div>
 
             <div className="llamada">
-              <a href="">
+              <a href="https://calendly.com/elias-e-solis" target="blank">
                 <div>
                   <div>
                     <img
@@ -47,7 +49,7 @@ const Servicios = () => {
                   </div>
                 </div>
                 <div className="textSp2">
-                  <p>Programar llaamada</p>
+                  <p>Programar Reunion</p>
                 </div>
               </a>
             </div>
@@ -85,7 +87,7 @@ const Servicios = () => {
             </div>
 
             <div className="llamada">
-              <a href="">
+              <a href="https://calendly.com/elias-e-solis" target="blank">
                 <div>
                   <div>
                     <img
@@ -95,7 +97,7 @@ const Servicios = () => {
                   </div>
                 </div>
                 <div className="textSp2">
-                  <p>Programar llaamada</p>
+                  <p>Programar Reunion</p>
                 </div>
               </a>
             </div>
