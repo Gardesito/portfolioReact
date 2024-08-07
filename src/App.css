@@ -14,9 +14,9 @@ body {
     height: auto;
     justify-content: center;
     max-height: unset;
-    max-width: 440px;
     padding: 16px;
-   flex-direction: none;
+    margin: 0 auto;
+    flex-direction: none;
     align-items: center;
 
     /*  flex-direction: column;
