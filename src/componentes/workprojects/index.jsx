@@ -4,7 +4,7 @@ const WorksP = ({ work }) => {
     <>
       <div className="design">
         <div>
-          <a href="" className="containerD">
+          <a href={work.url} className="containerD">
             <div className="containerD2">
               <div className="containerd3">
                 <img src={work.img} alt="" className="imgD" />

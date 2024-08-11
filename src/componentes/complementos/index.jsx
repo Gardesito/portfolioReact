@@ -1,5 +1,6 @@
 import "./complementos.css";
 
+
 const Complementos = () => {
   return (
     <>
@@ -20,6 +21,8 @@ const Complementos = () => {
           <div className="clientesTxt">
             <p className="textC2">individuales</p>
           </div>
+
+         
         </div>
       </div>
     </>
@@ -27,3 +30,4 @@ const Complementos = () => {
 };
 
 export { Complementos };
+ 

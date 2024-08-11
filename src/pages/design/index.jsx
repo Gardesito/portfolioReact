@@ -10,91 +10,97 @@ import "./design.css";
 const Design = () => {
   return (
     <>
-      <div className="work">
-        <Header />
+      <div className="portfolio">
+        <div className="containerport">
+          <div className="boxPort">
+            <Header />
 
-        <div className="containerWorks">
-          <div className="btnWks">
-            <div>
-              {" "}
-              <Link to="/work">
-                {" "}
-                <a href="" className="btnFondo">
-                  <div>
+            <div className="containerWorks">
+              <div className="btnWks">
+                <div>
+                  {" "}
+                  <Link to="/work">
                     {" "}
-                    <p>Developer</p>
-                  </div>
-                </a>
-              </Link>
-            </div>
+                    <a href="" className="btnFondo">
+                      <div>
+                        {" "}
+                        <p>Developer</p>
+                      </div>
+                    </a>
+                  </Link>
+                </div>
 
-            <div>
-              {" "}
-              <Link to="/design">
-                {" "}
-                <a href="" className="btnFondo">
-                  <div>
+                <div>
+                  {" "}
+                  <Link to="/design">
                     {" "}
-                    <p> Designer</p>{" "}
-                  </div>
-                </a>{" "}
-              </Link>
-            </div>
-          </div>
+                    <a href="" className="btnFondo">
+                      <div>
+                        {" "}
+                        <p> Designer</p>{" "}
+                      </div>
+                    </a>{" "}
+                  </Link>
+                </div>
+              </div>
 
-          <div>
-            <div className="clientesTxt">
-              <div></div>
               <div>
-                <p className="textC1">My clientess</p>
+                <div className="clientesTxt">
+                  <div></div>
+                  <div>
+                    <p className="textC1">My clientess</p>
+                  </div>
+                </div>
+                <div className="clientesTxt">
+                  <p className="textC2">Satisfied Partners</p>
+                </div>
+              </div>
+              <div className="design">
+                <div>
+                  <Link to="/ilustration">
+                    <a href="" className="containerD">
+                      <div className="containerD2">
+                        <div className="containerd3">
+                          <img
+                            src="https://res.cloudinary.com/dtmziqubb/image/upload/v1715034889/blancaso_hyjkzz.png"
+                            alt=""
+                            className="imgD"
+                          />
+                        </div>
+                      </div>
+
+                      <div className="containerTxt">
+                        <div className="containerTxt1">
+                          <div className="containerTxt2">
+                            <p>Fuua</p>
+                          </div>
+                          <div className="containerTxt3">
+                            <p>Ecomerce</p>
+                          </div>
+                        </div>
+                        <div className="iconD">
+                          <div className="iconD1">
+                            <div>
+                              <img
+                                src="https://framerusercontent.com/images/Lb6hmzD1rqwb6BVGnqeLP0ps88.svg"
+                                alt=""
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                  </Link>
+                </div>
               </div>
             </div>
-            <div className="clientesTxt">
-              <p className="textC2">Satisfied Partners</p>
-            </div>
-          </div>
-          <div className="design">
-            <div>
-              <a href="" className="containerD">
-                <div className="containerD2">
-                  <div className="containerd3">
-                    <img
-                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1715034889/blancaso_hyjkzz.png"
-                      alt=""
-                      className="imgD"
-                    />
-                  </div>
-                </div>
+            <Clientes />
 
-                <div className="containerTxt">
-                  <div className="containerTxt1">
-                    <div className="containerTxt2">
-                      <p>Fuua</p>
-                    </div>
-                    <div className="containerTxt3">
-                      <p>Ecomerce</p>
-                    </div>
-                  </div>
-                  <div className="iconD">
-                    <div className="iconD1">
-                      <div>
-                        <img
-                          src="https://framerusercontent.com/images/Lb6hmzD1rqwb6BVGnqeLP0ps88.svg"
-                          alt=""
-                        />
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </a>
-            </div>
+            <Numeros />
+
+            <Footer />
           </div>
         </div>
-        <Clientes />
-
-        <Numeros />
-
-        <Footer />
       </div>
     </>
   );
