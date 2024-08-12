@@ -62,7 +62,7 @@ const Design = () => {
                       <div className="containerD2">
                         <div className="containerd3">
                           <img
-                            src="https://res.cloudinary.com/dtmziqubb/image/upload/v1715034889/blancaso_hyjkzz.png"
+                            src="https://res.cloudinary.com/doo4zye2n/image/upload/v1723470558/aver_urxvgf.png"
                             alt=""
                             className="imgD"
                           />
@@ -72,7 +72,7 @@ const Design = () => {
                       <div className="containerTxt">
                         <div className="containerTxt1">
                           <div className="containerTxt2">
-                            <p>Fuua</p>
+                            <p>Community Manager</p>
                           </div>
                           <div className="containerTxt3">
                             <p>Ecomerce</p>
