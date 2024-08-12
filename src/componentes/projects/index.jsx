@@ -37,7 +37,7 @@ const Projects = () => {
                   />
                   <img
                     className="imgP"
-                    src="https://framerusercontent.com/images/h0bHFfufoXohXyRRUZq1vePOgM.png"
+                    src="https://res.cloudinary.com/doo4zye2n/image/upload/v1723469147/1_v234e3.png"
                   />
                   <img
                     className="imgP"
