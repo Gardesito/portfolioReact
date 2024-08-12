@@ -39,7 +39,7 @@
   left: 0;
   display: flex;
   justify-content: center;
-
+  cursor: pointer;
   opacity: 1;
 }
 

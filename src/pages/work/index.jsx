@@ -3,7 +3,6 @@ import { WorksP } from "../../componentes/workprojects";
 import { Header } from "../../componentes/principal/header";
 import { Footer } from "../../componentes/principal/footer";
 import { Clientes } from "../../componentes/clientes";
-import { Complementos } from "../../componentes/complementos";
 import { Numeros } from "../../componentes/numeros";
 import { Link } from "react-router-dom";
 

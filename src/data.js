@@ -3,32 +3,32 @@ const proyectos = [
 
   {
     id: "fuua",
-    title: "Food",
+    title: "Comunity Manager",
     imageneScroll: [
       {
-        url: "https://res.cloudinary.com/dtmziqubb/image/upload/v1715562452/Sin-t%C3%ADtulo-2-_16_-_8__01_jxaoky.jpg",
-        title: "delivery",
+        url: "https://res.cloudinary.com/doo4zye2n/image/upload/v1723432723/sa2_z3cpkh.png",
+        title: "31 Ideas",
       },
       {
-        url: "https://res.cloudinary.com/dtmziqubb/image/upload/v1715562452/Sin-t%C3%ADtulo-2-_16_-_8__05_bsrgyj.jpg",
-        title: "horario",
+        url: "https://res.cloudinary.com/doo4zye2n/image/upload/v1723432723/06s_vngkgy.png",
+        title: "Despegar",
       },
       {
-        url: "https://res.cloudinary.com/dtmziqubb/image/upload/v1715562452/Sin-t%C3%ADtulo-2-_16_-_8__06_v2msiq.jpg",
-        title: "promo",
-      },
-      /*  {
-        url: "",
-        title: "",
+        url: "https://res.cloudinary.com/doo4zye2n/image/upload/v1723432723/04_sa4stq.png",
+        title: "Nuestros Planes",
       },
       {
-        url: "",
-        title: "",
+        url: "https://res.cloudinary.com/doo4zye2n/image/upload/v1723432722/06_nj7qy0.png",
+        title: "Frase",
       },
       {
-        url: "",
-        title: "",
-      }, */
+        url: "https://res.cloudinary.com/doo4zye2n/image/upload/v1723432722/a21_ec1rti.png",
+        title: "Contenido",
+      },
+      {
+        url: "https://res.cloudinary.com/doo4zye2n/image/upload/v1723432722/aw_dau1p4.png",
+        title: "Pregunta",
+      },
     ],
     imagenes: [
       /* {
