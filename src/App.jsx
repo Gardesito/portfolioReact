@@ -8,7 +8,7 @@ import { Proyectos } from "./componentes/designs/proyectos/index";
 import { Ilustration } from "./pages/ilustration/ilustration";
 import "./App.css";
 import { Design } from "./pages/design";
-
+import { Tshirt } from "./pages/tshirt/tshirt";
 function App() {
   return (
     <>
@@ -19,6 +19,7 @@ function App() {
         <Route path="/error" element={<Error />} />
         <Route path="/design" element={<Design />} />
         <Route path="/ilustration" element={<Ilustration />} />
+        <Route path="/tshirt" element={<Tshirt />} />
 
         <Route path="/proyectos/:id" element={<Proyectos />} />
       </Routes>

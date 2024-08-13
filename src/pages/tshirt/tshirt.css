@@ -1,0 +1,10 @@
+.elementor-video {
+  width: 100%;
+}
+
+.video12 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
