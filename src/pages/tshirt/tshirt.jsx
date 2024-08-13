@@ -18,7 +18,7 @@ const Tshirt = () => {
 
               <div className="gallery1">
                 <div className="video12">
-                  <iframe
+                  {/* <iframe
                     title="vimeo-player"
                     src="https://player.vimeo.com/video/989322266?h=fc8161378d=60&autoplay=1&controls=0&loop=1"
                     width="100%"
@@ -26,7 +26,12 @@ const Tshirt = () => {
                     frameborder="0"
                     className="video1"
                     allowfullscreen
-                  ></iframe>
+                  ></iframe> */}
+
+                  <img
+                    src="https://res.cloudinary.com/dtmziqubb/image/upload/v1723520789/TRIDENT_VIDEO_2_gh1lig.gif"
+                    alt=""
+                  />
                   <h3></h3>
                 </div>
               </div>
