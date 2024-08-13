@@ -13,7 +13,7 @@ const Tshirt = () => {
 
             <div className="containerIlustration">
               <div className="headerIlustration">
-                <h1> TShirt </h1>
+                <h1> T-Shirt </h1>
               </div>
 
               <div className="gallery1">
@@ -27,12 +27,22 @@ const Tshirt = () => {
                     className="video1"
                     allowfullscreen
                   ></iframe> */}
-
                   <img
                     src="https://res.cloudinary.com/dtmziqubb/image/upload/v1723520789/TRIDENT_VIDEO_2_gh1lig.gif"
                     alt=""
                   />
-                  <h3></h3>
+                  <div className="btnTshirt">
+                    <a
+                      href="https://www.instagram.com/p/C9phgn-OR1G/"
+                      target="blank"
+                    >
+                      <div className="containerBtn">
+                        <div>
+                          <p className="txtPro">Show </p>
+                        </div>
+                      </div>
+                    </a>{" "}
+                  </div>
                 </div>
               </div>
             </div>

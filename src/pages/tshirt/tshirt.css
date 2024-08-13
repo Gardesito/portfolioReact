@@ -3,13 +3,32 @@
 }
 
 .video12 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   border-radius: 20px;
 }
 
 .video12 img {
   width: 100%;
   border-radius: 20px;
+}
+
+.btnTshirt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+.btnTshirtbox {
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  background-color: #a290fc;
+  font-family: "Manrope", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
 }

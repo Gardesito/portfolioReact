@@ -75,7 +75,7 @@ const Design = () => {
                             <p>Community Manager</p>
                           </div>
                           <div className="containerTxt3">
-                            <p>Ecomerce</p>
+                            <p>Example</p>
                           </div>
                         </div>
                         <div className="iconD">
@@ -97,7 +97,7 @@ const Design = () => {
                       <div className="containerD2">
                         <div className="containerd3">
                           <img
-                            src="https://res.cloudinary.com/doo4zye2n/image/upload/v1723470558/aver_urxvgf.png"
+                            src="https://res.cloudinary.com/dtmziqubb/image/upload/v1723522182/RE_SEEE_vims4r.png"
                             alt=""
                             className="imgD"
                           />
