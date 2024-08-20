@@ -1,5 +1,6 @@
 import "./clientes.css";
-const Clientes = () => {
+/* import { clientesjs } from "./clientes";
+ */ const Clientes = () => {
   return (
     <>
       <div className="clientes">
@@ -22,13 +23,7 @@ const Clientes = () => {
           </div>
           <div>
             <div>
-
-
-
-
-
-              
-               <div className="logos">
+              {/* <div className="logos">
                 <div className="logos-slide">
                   <img src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg" />
                   <img src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg" />
@@ -43,8 +38,100 @@ const Clientes = () => {
                   <img src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg" />
                   <img src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg" />
                 </div>
+                
+              </div>  */}
+
+             <div class="slider">
+                <div class="slide-track">
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/CDqorljWdJmtULdYZxbtdnnpj0.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      alt=""
+                    />
+                  </div>
+                </div>
               </div> 
-              <div></div>
+
+              
             </div>
           </div>
         </div>

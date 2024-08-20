@@ -75,3 +75,19 @@
   font-weight: 600;
   font-size: 14px;
 }
+
+
+
+
+.pro1 .pro2 {
+  width: 100px;
+}
+
+.pro1 .slide img {
+  width: 190%;
+}
+
+.pro3 {
+  display: flex;
+  gap: 103px;
+}

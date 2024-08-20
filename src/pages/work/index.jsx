@@ -8,8 +8,8 @@ import { Link } from "react-router-dom";
 
 const workP = [
   {
-    name: "Panaderia",
-    img: "https://res.cloudinary.com/doo4zye2n/image/upload/v1717441194/cld-sample-5.jpg",
+    name: "Fuua",
+    img: "https://res.cloudinary.com/doo4zye2n/image/upload/v1723587639/para_fuua_mru9hg.png",
     url: "https://heroic-souffle-4e46a6.netlify.app/",
     sub: "Ecommerce",
   },
@@ -75,8 +75,6 @@ const Works = () => {
                 <WorksP work={work} key={index} />
               ))}
             </div>
-
-            
 
             <Clientes />
 
