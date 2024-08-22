@@ -69,7 +69,7 @@ import "./clientes.css";
                   </div>
                   <div class="slide">
                     <img
-                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724356932/fuua_u4hzkh.png"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357980/natura_mo5tls.png"
                       alt=""
                     />
                   </div>
@@ -81,7 +81,7 @@ import "./clientes.css";
                   </div>
                   <div class="slide">
                     <img
-                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357423/AONI_kof5md.png"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357980/natura_mo5tls.png"
                       alt=""
                     />
                   </div>
