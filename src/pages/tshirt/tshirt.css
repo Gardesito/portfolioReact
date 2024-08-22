@@ -18,7 +18,6 @@
   margin-top: 20px;
 }
 
-
 .btnTshirtbox {
   text-decoration: none;
   color: black;
@@ -31,4 +30,11 @@
   font-size: 14px;
   font-weight: 500;
   font-style: normal;
+}
+
+.Tshirtex {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
 }

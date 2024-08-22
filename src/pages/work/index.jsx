@@ -9,16 +9,16 @@ import { Link } from "react-router-dom";
 const workP = [
   {
     name: "Fuua",
-    img: "https://res.cloudinary.com/doo4zye2n/image/upload/v1723587639/para_fuua_mru9hg.png",
+    img: "https://res.cloudinary.com/doo4zye2n/image/upload/v1724355600/FUUA_zm5uk5.png",
     url: "https://heroic-souffle-4e46a6.netlify.app/",
-    sub: "Ecommerce",
+    sub: "Ecommerce (disponible proximamente )",
   },
 
   {
-    name: "gym",
-    img: "https://res.cloudinary.com/doo4zye2n/image/upload/v1717441193/cld-sample-4.jpg",
+    name: "Aoni",
+    img: "https://res.cloudinary.com/doo4zye2n/image/upload/v1724353405/aoni_oog3wl.png",
     url: "https://heroic-souffle-4e46a6.netlify.app/",
-    sub: "Ecommerce",
+    sub: "Landing-Page (disponible proximamente )",
   },
 ];
 

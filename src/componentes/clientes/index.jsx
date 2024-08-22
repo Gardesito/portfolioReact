@@ -41,97 +41,95 @@ import "./clientes.css";
                 
               </div>  */}
 
-             <div class="slider">
+              <div class="slider">
                 <div class="slide-track">
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/CDqorljWdJmtULdYZxbtdnnpj0.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724356932/fuua_u4hzkh.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357089/dia_xfm0nc.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357284/TRIDEN_y7jth7.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357423/AONI_kof5md.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724356932/fuua_u4hzkh.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357089/dia_xfm0nc.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357423/AONI_kof5md.png"
                       alt=""
                     />
                   </div>
 
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357284/TRIDEN_y7jth7.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357423/AONI_kof5md.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357284/TRIDEN_y7jth7.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357423/AONI_kof5md.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357089/dia_xfm0nc.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357284/TRIDEN_y7jth7.png"
                       alt=""
                     />
                   </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/7vrYe7VTTc2XSy3AOPnuzuajOA.svg"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724357089/dia_xfm0nc.png"
                       alt=""
                     />
                   </div>
                 </div>
-              </div> 
-
-              
+              </div>
             </div>
           </div>
         </div>

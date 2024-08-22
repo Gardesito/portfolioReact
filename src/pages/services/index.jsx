@@ -82,9 +82,8 @@ const Servicios = () => {
                 </div>
                 <div className="txtSp">
                   <p>
-                    Creación de sitios web funcionales con código limpio y
-                    diseño responsivo para cumplir con los objetivos del cliente
-                    y mejorar las experiencias del usuario.
+                    Creación de diseños para tus redes sociales, dándole vida a
+                    tus ideas de una manera que pueda impactar a tú público
                   </p>
                 </div>
 

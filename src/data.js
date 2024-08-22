@@ -47,23 +47,11 @@ const proyectos = [
   },
 
   /* -------------------------------   Community Manager----------------------------------------- */
-  {
-    id: "aoni",
-    title: " Community Manager",
+  /* {
+    id: "",
+    title: " ",
     imageneScroll: [
       {
-        url: "https://res.cloudinary.com/doo4zye2n/image/upload/v1717441192/cld-sample.jpg",
-        title: "feliz",
-      },
-      {
-        url: "https://res.cloudinary.com/doo4zye2n/image/upload/v1717441194/cld-sample-5.jpg",
-        title: "zapas",
-      },
-      {
-        url: "https://res.cloudinary.com/doo4zye2n/image/upload/v1717441189/samples/cup-on-a-table.jpg",
-        title: "taza",
-      },
-      /* {
         url: "",
         title: "",
       },
@@ -74,7 +62,19 @@ const proyectos = [
       {
         url: "",
         title: "",
-      }, */
+      }, 
+       {
+        url: "",
+        title: "",
+      },
+      {
+        url: "",
+        title: "",
+      },
+      {
+        url: "",
+        title: "",
+      }, 
     ],
     imagenes: [
       {
@@ -102,7 +102,7 @@ const proyectos = [
         title: "",
       },
     ],
-  },
+  }, */
 ];
 
 export { proyectos };
