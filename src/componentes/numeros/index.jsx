@@ -88,7 +88,7 @@ const Numeros = () => {
             </div>
             <div className="projectsNum">
               <div></div>
-              <a href="./../Elias Solis CV.pdf" download="CV">
+              <a href="./../Elias Solis CV.pdf" download="Elias Solis CV">
                 <div className="txtN cv">
                   <p>Dowland</p>
                 </div>
