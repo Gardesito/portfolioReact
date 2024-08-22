@@ -126,6 +126,40 @@ const Design = () => {
                       </div>
                     </a>
                   </Link>
+                  <Link to="/flyer">
+                    <a href="" className="containerD">
+                      <div className="containerD2">
+                        <div className="containerd3">
+                          <img
+                            src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724364842/FLYERS_nsny1s.png"
+                            alt=""
+                            className="imgD"
+                          />
+                        </div>
+                      </div>
+
+                      <div className="containerTxt">
+                        <div className="containerTxt1">
+                          <div className="containerTxt2">
+                            <p>Flyers</p>
+                          </div>
+                          <div className="containerTxt3">
+                            <p>Mokups</p>
+                          </div>
+                        </div>
+                        <div className="iconD">
+                          <div className="iconD1">
+                            <div>
+                              <img
+                                src="https://framerusercontent.com/images/Lb6hmzD1rqwb6BVGnqeLP0ps88.svg"
+                                alt=""
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
