@@ -14,7 +14,7 @@ import "./clientes.css";
                 />
               </div>
               <div>
-                <p className="textC1">My clients</p>
+                <p className="textC1">My customers</p>
               </div>
             </div>
             <div className="clientesTxt">

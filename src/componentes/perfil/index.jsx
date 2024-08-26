@@ -125,7 +125,7 @@ const Perfil = () => {
                 /> */}
               </div>
               <div className="redestext">
-                <p>Linkedin</p>
+                <p>LinkedIn</p>
               </div>
             </a>
           </div>
@@ -139,7 +139,7 @@ const Perfil = () => {
                 />
               </div>
               <div className="redestext">
-                <p>Whatasapp</p>
+                <p>Whatsapp</p>
               </div>
             </a>
           </div>
