@@ -11,6 +11,7 @@ import { Design } from "./pages/design";
 import { Tshirt } from "./pages/tshirt/tshirt";
 import { Flyer } from "./pages/Flyers/flyers";
 import { Dia } from "./pages/Dia/dia";
+import { Politica } from "./pages/Politica/politica";
 function App() {
   return (
     <>
@@ -24,7 +25,7 @@ function App() {
         <Route path="/tshirt" element={<Tshirt />} />
         <Route path="/flyer" element={<Flyer />} />
         <Route path="/dia" element={<Dia />} />
-
+        <Route path="/politica" element={<Politica />} />
 
         <Route path="/proyectos/:id" element={<Proyectos />} />
       </Routes>

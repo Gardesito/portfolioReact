@@ -34,7 +34,7 @@ const Dia = () => {
                       </div>
                     </a>
                   </div>
-                  <div className="Tshirtex">
+                  {/* <div className="Tshirtex">
                     <img
                       src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724351207/Sin_t%C3%ADtulo-1_g14sog.png"
                       alt=""
@@ -51,7 +51,7 @@ const Dia = () => {
                       src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724351636/Triden_8k_front_1png_gatpvy.png"
                       alt=""
                     />
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
