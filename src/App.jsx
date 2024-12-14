@@ -27,6 +27,7 @@ function App() {
         <Route path="/dia" element={<Dia />} />
         <Route path="/politica" element={<Politica />} />
 
+
         <Route path="/proyectos/:id" element={<Proyectos />} />
       </Routes>
     </>

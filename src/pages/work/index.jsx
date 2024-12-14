@@ -8,15 +8,15 @@ import { Link } from "react-router-dom";
 
 const workP = [
   {
-    name: "Fuua",
-    img: "https://res.cloudinary.com/doo4zye2n/image/upload/v1724355600/FUUA_zm5uk5.png",
+    name: "FFTECH",
+    img: "https://res.cloudinary.com/doo4zye2n/image/upload/v1734131037/ftech_peph4r.png",
     url: "https://heroic-souffle-4e46a6.netlify.app/",
     sub: "Ecommerce (disponible proximamente )",
   },
 
   {
     name: "Aoni",
-    img: "https://res.cloudinary.com/doo4zye2n/image/upload/v1724353405/aoni_oog3wl.png",
+    img: "https://res.cloudinary.com/doo4zye2n/image/upload/v1734128853/ahoa_si_r3cbix.png",
     url: "https://heroic-souffle-4e46a6.netlify.app/",
     sub: "Landing-Page (disponible proximamente )",
   },

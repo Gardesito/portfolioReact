@@ -82,6 +82,11 @@
   margin: 0 5px;
 }
 
+.slide-track {
+  display: flex;
+  gap: 10px;
+}
+
 /* nuevo slide */
 .slider {
   width: 100%;

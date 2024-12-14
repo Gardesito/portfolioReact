@@ -25,10 +25,9 @@ const Projects = () => {
           </div>
           <div>
             <div>
-              
               <div class="slider pro1">
                 <div class="slide-track pro3">
-                  <div class="slide ">
+                  <div class="slide2">
                     <img
                       src="https://res.cloudinary.com/doo4zye2n/image/upload/v1723469147/1_v234e3.png"
                       alt=""

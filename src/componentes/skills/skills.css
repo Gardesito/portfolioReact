@@ -1,0 +1,19 @@
+.skill {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.img-skill {
+  background-color: #191919;
+  border-radius: 5px;
+}
+
+.img-skill img {
+  width: 80px;
+}
+
+.img-skill :hover {
+  transform: scale(1.1)
+}

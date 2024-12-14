@@ -76,9 +76,6 @@
   font-size: 14px;
 }
 
-
-
-
 .pro1 .pro2 {
   width: 100px;
 }
@@ -89,5 +86,17 @@
 
 .pro3 {
   display: flex;
-  gap: 103px;
+  gap: 13px;
 }
+
+.slide2 img {
+  height: 40px;
+}
+
+/* .slide2 {
+  display: flex;
+}
+.slide2 img {
+  height: 20px;
+}
+ */

@@ -31,7 +31,7 @@ const Numeros = () => {
           <div className="containerNum2">
             <div className="NumBox">
               <div className="numP">
-                <p>5</p>
+                <p>16</p>
               </div>
               <div className="mas">
                 <p>+</p>
