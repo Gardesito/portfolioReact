@@ -18,7 +18,7 @@ const Skills = () => {
               </div>
             </div>
             <div className="clientesTxt">
-              <p className="textC2">Satisfied Partners</p>
+              <p className="textC2">My main stack.</p>
             </div>
           </div>
           <div>
