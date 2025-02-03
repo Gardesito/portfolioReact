@@ -14,7 +14,7 @@ const Skills = () => {
                 />
               </div>
               <div>
-                <p className="textC1">My Skills</p>
+                <p className="textC1">My Skills Design</p>
               </div>
             </div>
             <div className="clientesTxt">
@@ -24,22 +24,40 @@ const Skills = () => {
           <div>
             <div>
               <div class="slider">
-                <div className="skill">
+                <div className="skill1">
                   <div className="img-skill">
                     <img
-                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1733969979/klipartz.com_2_xpju2e.png"
+                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1738602180/premiere_11227501_btvi55.png"
                       alt=""
                     />
                   </div>
                   <div className="img-skill">
                     <img
-                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1733970624/klipartz.com_4_lckhjf.png"
+                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1738602180/adobe-illustrator_11227477_xa97ok.png"
                       alt=""
                     />
                   </div>
                   <div className="img-skill">
                     <img
-                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1733970955/klipartz.com_5_mdnxfk.png"
+                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1738602180/after-effects_11227453_bzx22l.png"
+                      alt=""
+                    />
+                  </div>
+                  <div className="img-skill">
+                    <img
+                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1738602180/figma_5968719_mcvq0h.png"
+                      alt=""
+                    />
+                  </div>
+                  <div className="img-skill">
+                    <img
+                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1738603198/ps_rk8tyd.png"
+                      alt=""
+                    />
+                  </div>
+                  <div className="img-skill">
+                    <img
+                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1738603198/adobe-lightroom_11227486_gr2zrf.png"
                       alt=""
                     />
                   </div>

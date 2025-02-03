@@ -9,6 +9,7 @@ import { Contact } from "../../componentes/contact";
 
 import "./portfolio.css";
 import { Skills } from "../../componentes/skills/skills";
+import { Skills2 } from "../../componentes/skill2/skill2";
 const Portfolio = () => {
   return (
     <>
@@ -18,7 +19,8 @@ const Portfolio = () => {
             <Header />
 
             <Perfil />
-            <Skills />
+            <Skills />          
+            <Skills2 />
 
             <Numeros />
             <Clientes />

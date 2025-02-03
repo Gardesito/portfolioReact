@@ -1,18 +1,16 @@
-.skill1 {
+.skill {
   display: flex;
-  flex-wrap: wrap;
-
   align-items: center;
   justify-content: center;
   gap: 20px;
 }
 
-.img-skill1 {
+.img-skill {
   background-color: #191919;
   border-radius: 5px;
 }
 
-.img-skill1 img {
+.img-skill img {
   width: 80px;
 }
 

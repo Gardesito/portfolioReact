@@ -131,7 +131,7 @@ const Perfil = () => {
           </div>
 
           <div className="container-redes">
-            <a href="">
+            <a href="https://wa.me/2975179462" target="_blank">
               <div className="imgInfo">
                 <img
                   src="https://framerusercontent.com/images/Noy5SjiQS1OWy3FZmUE4TGu45ZA.svg"

@@ -27,27 +27,9 @@ const Projects = () => {
             <div>
               <div class="slider pro1">
                 <div class="slide-track pro3">
-                  <div class="slide2">
-                    <img
-                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1723469147/1_v234e3.png"
-                      alt=""
-                    />
-                  </div>
                   <div class="slide">
                     <img
-                      src="https://framerusercontent.com/images/h0bHFfufoXohXyRRUZq1vePOgM.png"
-                      alt=""
-                    />
-                  </div>
-                  <div class="slide">
-                    <img
-                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724352335/res_m8mpky.png"
-                      alt=""
-                    />
-                  </div>
-                  <div class="slide">
-                    <img
-                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1723469147/1_v234e3.png"
+                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1738603382/Sin_t%C3%ADtulo-1_tqloct.png"
                       alt=""
                     />
                   </div>
@@ -65,7 +47,25 @@ const Projects = () => {
                   </div>
                   <div class="slide">
                     <img
-                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1723469147/1_v234e3.png"
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1730238772/asdxc_cufzr9.jpg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1730238772/cabildo_abierto_goghej.jpg"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724352335/res_m8mpky.png"
+                      alt=""
+                    />
+                  </div>
+                  <div class="slide">
+                    <img
+                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1738603382/Sin_t%C3%ADtulo-1_tqloct.png"
                       alt=""
                     />
                   </div>
@@ -84,7 +84,7 @@ const Projects = () => {
                   </div>
                   <div class="slide">
                     <img
-                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1723469147/1_v234e3.png"
+                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1738603382/Sin_t%C3%ADtulo-1_tqloct.png"
                       alt=""
                     />
                   </div>
@@ -108,7 +108,7 @@ const Projects = () => {
                   </div>
                   <div class="slide">
                     <img
-                      src="https://res.cloudinary.com/doo4zye2n/image/upload/v1724352335/res_m8mpky.png"
+                      src="https://res.cloudinary.com/dtmziqubb/image/upload/v1738603382/Sin_t%C3%ADtulo-1_tqloct.png"
                       alt=""
                     />
                   </div>
