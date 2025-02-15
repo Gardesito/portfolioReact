@@ -4,7 +4,7 @@ import { Header } from "../../componentes/principal/header";
 import { Footer } from "../../componentes/principal/footer";
 import { Clientes } from "../../componentes/clientes";
 import { Numeros } from "../../componentes/numeros";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 const workP = [
   {
@@ -23,6 +23,8 @@ const workP = [
 ];
 
 const Works = () => {
+  const location = useLocation();
+
   return (
     <>
       <div className="portfolio">
@@ -34,7 +36,11 @@ const Works = () => {
               <div className="btnWks">
                 <div>
                   <Link to="/work">
-                    <a href="" className="btnFondo">
+                    <a
+                      className={`btnWks-btn ${
+                        location.pathname === "/work" ? "selected" : ""
+                      }`}
+                    >
                       <div>
                         <p>Developer</p>
                       </div>
@@ -44,9 +50,13 @@ const Works = () => {
 
                 <div>
                   <Link to="/design">
-                    <a href="" className="btnFondo">
+                    <a
+                      className={`btnWks-btn ${
+                        location.pathname === "/design" ? "selected" : ""
+                      }`}
+                    >
                       <div>
-                        <p> Designer</p>
+                        <p>Designer</p>
                       </div>
                     </a>
                   </Link>

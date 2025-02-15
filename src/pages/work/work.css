@@ -39,3 +39,34 @@
   margin-bottom: 20px;
   width: 100%;
 }
+
+.btnWks-btn {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  border-radius: 100px;
+  background-color: transparent;
+  width: 95px;
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  width: 100%;
+  padding: 10px;
+  color: #fff;
+  transition: all 0.3s ease;
+  border: 1px solid transparent;
+}
+
+.btnWks-btn.selected {
+  background-color: #a290fc;
+  color: #000;
+}
+
+.btnWks-btn:not(.selected) {
+  background-color: transparent;
+  border: 1px solid #333;
+}
