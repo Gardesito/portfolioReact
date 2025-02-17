@@ -92,6 +92,41 @@ const Design = () => {
                     </a>
                   </Link>
 
+                  <Link to="/gym">
+                    <a href="" className="containerD">
+                      <div className="containerD2">
+                        <div className="containerd3">
+                          <img
+                            src="https://res.cloudinary.com/dtmziqubb/image/upload/v1739818640/Capa_1_jx6e7t.jpg"
+                            alt=""
+                            className="imgD"
+                          />
+                        </div>
+                      </div>
+
+                      <div className="containerTxt">
+                        <div className="containerTxt1">
+                          <div className="containerTxt2">
+                            <p>Videos</p>
+                          </div>
+                          <div className="containerTxt3">
+                            <p>Core Sport Center</p>
+                          </div>
+                        </div>
+                        <div className="iconD">
+                          <div className="iconD1">
+                            <div>
+                              <img
+                                src="https://framerusercontent.com/images/Lb6hmzD1rqwb6BVGnqeLP0ps88.svg"
+                                alt=""
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                  </Link>
+
                   <Link to="/Politica">
                     <a href="" className="containerD">
                       <div className="containerD2">

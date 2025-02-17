@@ -12,6 +12,7 @@ import { Tshirt } from "./pages/tshirt/tshirt";
 import { Flyer } from "./pages/Flyers/flyers";
 import { Dia } from "./pages/Dia/dia";
 import { Politica } from "./pages/Politica/politica";
+import { Gym } from "./pages/gym/gym";
 function App() {
   return (
     <>
@@ -25,8 +26,8 @@ function App() {
         <Route path="/tshirt" element={<Tshirt />} />
         <Route path="/flyer" element={<Flyer />} />
         <Route path="/dia" element={<Dia />} />
+        <Route path="/gym" element={<Gym />} />
         <Route path="/politica" element={<Politica />} />
-
 
         <Route path="/proyectos/:id" element={<Proyectos />} />
       </Routes>

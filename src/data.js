@@ -3,7 +3,7 @@ const proyectos = [
 
   {
     id: "fuua",
-    title: "Comunity Manager",
+    title: "Community Manager",
     imageneScroll: [
       {
         url: "https://res.cloudinary.com/doo4zye2n/image/upload/v1723432723/sa2_z3cpkh.png",
